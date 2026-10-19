@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawnsaju&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false)
 
 ![Shawn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shawnsaju&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&show=prs_merged,reviews)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=shawnsaju&repo=YOUR_REPO_NAME&theme=dracula)](https://github.com/shawnsaju/YOUR_REPO_NAME)
